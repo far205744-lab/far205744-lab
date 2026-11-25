@@ -86,3 +86,26 @@ Hello! I'm Farman Ullah from Chitral, Pakistan.
 `< Let's build something amazing together! />`
 
 </div>
+<div align="center">
+
+### 💻 Code • Learn • Build • Grow
+
+**Dream Big. Code Better. Build the Future.**
+
+`< Let's build something amazing together! />`
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/far205744-lab">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+https://github.com/far205744-lab
