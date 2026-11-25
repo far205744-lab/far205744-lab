@@ -24,6 +24,33 @@
 <table>
 <tr>
 <td width="50%" valign="top">
+---
+
+<h2 align="center">👨‍💻 My Coding Workspace</h2>
+
+<div align="center">
+
+<pre>
+       ______________________
+      | |
+      | 010101 101010 |
+      | 101010 010101 |
+      | |
+      |______________________|
+             | |
+       ______|______|______
+      / \
+     / FARMAN'S \
+    / WORKSPACE \
+   /__________________________\
+
+      CODE • DEBUG • REPEAT
+</pre>
+
+</div>
+
+---
+
 
 ## 👨‍💻 About Me
 
