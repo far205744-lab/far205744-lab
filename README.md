@@ -21,14 +21,6 @@
 
 
 
-`< Code />` `Learn` `Build` `Grow`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Exploring+AI+and+Software+Development" />
-
-</div>
-
----
-
 <table>
 <tr>
 <td width="50%" valign="top">
