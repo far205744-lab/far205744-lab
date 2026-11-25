@@ -1,3 +1,14 @@
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050B14,50:071B35,100:003B5C&height=180&section=header&text=FARMAN%20ULLAH&fontSize=48&fontColor=38E8FF&fontAlignY=45&desc=Computer%20Science%20Student%20%7C%20Aspiring%20AI%20Engineer&descSize=16&descAlignY=72&animation=fadeIn" />
+
+### <span>⚡ CODE · LEARN · BUILD · GROW ⚡</span>
+
+📍 Chitral, Pakistan
+
+</div>
+
 <div align="center">
 
 <img src="https://github.com/far205744-lab.png" width="130" height="130" alt="Farman Ullah's GitHub avatar" />
@@ -156,3 +167,10 @@ Hello! I'm **Farman Ullah**, a BS Computer Science student from Chitral, Pakista
 
 </div>
 
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:003B5C,50:071B35,100:050B14&height=120&section=footer&text=LET'S%20BUILD%20SOMETHING%20AMAZING&fontSize=22&fontColor=38E8FF&animation=fadeIn" />
+
+</div>
