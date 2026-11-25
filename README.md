@@ -3,9 +3,23 @@
 
 <img src="https://github.com/far205744-lab.png" width="150" style="border-radius:50%;" />
 
+<div align="center">
+
 # FARMAN ULLAH
 
 ### Computer Science Student | Aspiring AI Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+C%2B%2B+and+Python;Exploring+Artificial+Intelligence;Building+my+future+in+Tech" />
+
+**📍 Chitral, Pakistan**
+
+`< Code />` • `Learn` • `Build` • `Grow`
+
+</div>
+
+---
+
+
 
 `< Code />` `Learn` `Build` `Grow`
 
